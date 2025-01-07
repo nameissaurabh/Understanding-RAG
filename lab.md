@@ -1,6 +1,6 @@
 # Create a RAG with LLM and Qdrant using your own data
 
-In this lab you will implement the RAG pattern with your own data. Use the example code in this repository from the [Applied Rag Notebook](./examples/3-applied-rag/embeddings.ipynb) as reference. The end result should be in your own repository containing the complete code for the enhanced RAG pattern based on the example provided.
+In this lab you will implement the RAG pattern with your own data. Use the example code in this repository from the [Applied Rag Notebook](./examples/3-applied-rag/embeddings.ipynb) as reference. The end result should be in your own repository containing the complete code for the enhanced RAG pattern based on the example provided..
 
 **Learning Objectives:**
 
